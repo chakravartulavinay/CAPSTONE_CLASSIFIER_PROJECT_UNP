@@ -3,7 +3,7 @@ Completed this project as part of my Data Science and Machine Learning Internshi
 Key highlights:
 - Studied and Analyzed the Credit Risk Prediction dataset to applying ML models and present my insights. 
 - Performed various Exploratory Data Analysis to understand the data and compare the variables.
-- Experimented with different Machine Learning algorithms, Logistic Regression, RandomForest Classifier and Decision Tree Classifier etc. 
+- Experimented with different Machine Learning algorithms, Logistic Regression, Bagging, SVC and K-NN. 
 - Compared the results to recommend the best Machine Learning model. 
 
 COLAB NOTEBOOK LINK:
